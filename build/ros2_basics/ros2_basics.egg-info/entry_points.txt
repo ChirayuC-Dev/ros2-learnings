@@ -1,0 +1,3 @@
+[console_scripts]
+talker = ros2_basics.talker:main
+
